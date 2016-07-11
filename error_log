@@ -1,0 +1,318 @@
+[16-Nov-2014 21:41:05 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/neilsite/public_html/careeer/test/class.user.php on line 40
+[16-Nov-2014 21:41:42 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/neilsite/public_html/careeer/test/class.user.php on line 40
+[16-Nov-2014 21:41:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/neilsite/public_html/careeer/test/class.user.php on line 40
+[16-Nov-2014 21:43:39 America/Chicago] PHP Parse error:  syntax error, unexpected '!', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/neilsite/public_html/careeer/test/class.user.php on line 41
+[16-Nov-2014 21:43:43 America/Chicago] PHP Parse error:  syntax error, unexpected '!', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/neilsite/public_html/careeer/test/class.user.php on line 41
+[16-Nov-2014 22:41:26 America/Chicago] PHP Fatal error:  Call to undefined method user::delFriend() in /home/neilsite/public_html/careeer/test/testdelete.php on line 55
+[16-Nov-2014 23:49:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:65) in /home/neilsite/public_html/careeer/test/test.php on line 107
+[17-Nov-2014 00:08:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$newchatid' (T_VARIABLE), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/class.chat.php on line 112
+[17-Nov-2014 00:19:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:65) in /home/neilsite/public_html/careeer/test/test.php on line 107
+[17-Nov-2014 00:21:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/testdelete.php on line 55
+[17-Nov-2014 00:21:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/testdelete.php on line 55
+[17-Nov-2014 00:22:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/testdelete.php on line 55
+[17-Nov-2014 00:23:08 America/Chicago] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/testdelete.php on line 55
+[17-Nov-2014 00:23:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/testdelete.php on line 55
+[17-Nov-2014 00:26:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'href' (T_STRING), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/testdelete.php on line 55
+[17-Nov-2014 01:40:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$uid' (T_VARIABLE), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/class.user.php on line 53
+[17-Nov-2014 01:40:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$uid' (T_VARIABLE), expecting ',' or ';' in /home/neilsite/public_html/careeer/test/class.user.php on line 53
+[17-Nov-2014 02:04:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:64) in /home/neilsite/public_html/careeer/test/test.php on line 103
+[17-Nov-2014 02:07:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'fid' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/neilsite/public_html/careeer/test/class.chat.php on line 75
+[17-Nov-2014 02:07:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'fid' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/neilsite/public_html/careeer/test/class.chat.php on line 75
+[17-Nov-2014 05:01:54 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:01:57 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:01:59 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:02 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:04 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:07 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:09 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:12 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:14 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:17 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:19 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:22 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:24 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:27 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:29 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:32 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:34 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:37 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:39 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:42 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:02:45 America/Chicago] PHP Fatal error:  Call to a member function getChat() on a non-object in /home/neilsite/public_html/careeer/test/testchat.php on line 3
+[17-Nov-2014 05:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/neilsite/public_html/careeer/test/testchat.php on line 9
+[17-Nov-2014 05:16:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/neilsite/public_html/careeer/test/testchat.php on line 9
+[17-Nov-2014 05:16:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/neilsite/public_html/careeer/test/testchat.php on line 9
+[17-Nov-2014 05:16:29 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/neilsite/public_html/careeer/test/testchat.php on line 9
+[17-Nov-2014 05:16:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/neilsite/public_html/careeer/test/testchat.php on line 9
+[17-Nov-2014 05:16:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/neilsite/public_html/careeer/test/testchat.php on line 9
+[17-Nov-2014 05:16:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$a' (T_VARIABLE) in /home/neilsite/public_html/careeer/test/testchat.php on line 9
+[17-Nov-2014 05:47:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:83) in /home/neilsite/public_html/careeer/test/test.php on line 125
+[26-Nov-2014 05:18:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 05:47:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 05:47:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 06:00:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 06:02:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 06:05:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 06:07:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 06:08:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 06:18:19 America/Chicago] PHP Fatal error:  Class 'chat' not found in /home/neilsite/public_html/careeer/test/testchat.php on line 4
+[26-Nov-2014 07:01:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 07:17:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:17:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:18:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/neilsite/public_html/careeer/test/class.chat.php on line 107
+[26-Nov-2014 07:44:09 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:12 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:12 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:15 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:16 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:18 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:19 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:21 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:21 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:24 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:24 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:26 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:27 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:29 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:30 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:30 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:31 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:33 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:33 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:36 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:36 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:38 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:39 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:41 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:41 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:43 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:44 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:46 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:46 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:48 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:49 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:51 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:51 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:53 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:54 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:58 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:44:59 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:03 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:04 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:06 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:06 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:08 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:09 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:11 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:11 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:16 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:19 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:20 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:21 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:23 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:24 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:26 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:26 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:29 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:29 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:29 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:30 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:32 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:33 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:35 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:35 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:38 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:38 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:40 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:41 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:44 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:45 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:47 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:47 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:50 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:53 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:55 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:55 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:55 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:58 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:45:58 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:00 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:02 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:03 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:04 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:05 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:08 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:08 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:10 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:11 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:13 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:15 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:20 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:20 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:23 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:23 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:25 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:26 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:27 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:29 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:30 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:32 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:32 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:34 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:35 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:38 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:38 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:40 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:40 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:41 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:42 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:44 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:44 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:47 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:47 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:49 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:50 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:52 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:52 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:54 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:57 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:59 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:46:59 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:02 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:02 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:04 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:05 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:07 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:08 America/Chicago] PHP Fatal error:  Class 'chat' not found in /home/neilsite/public_html/careeer/test/testchat.php on line 4
+[26-Nov-2014 07:47:09 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:09 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:10 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:12 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:19 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:20 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:22 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:23 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:24 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:26 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:27 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:29 America/Chicago] PHP Fatal error:  Class 'chat' not found in /home/neilsite/public_html/careeer/test/testchat.php on line 4
+[26-Nov-2014 07:47:47 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:50 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:50 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:51 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:53 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:54 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:59 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:47:59 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:01 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:02 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:04 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:04 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:06 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:07 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:09 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:10 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:11 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:14 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:16 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 07:48:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/neilsite/public_html/careeer/test/class.chat.php on line 81
+[26-Nov-2014 08:04:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[26-Nov-2014 08:19:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:75) in /home/neilsite/public_html/careeer/test/test.php on line 129
+[27-Nov-2014 08:25:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:42) in /home/neilsite/public_html/careeer/test/test.php on line 98
+[27-Nov-2014 10:19:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:42) in /home/neilsite/public_html/careeer/test/test.php on line 106
+[27-Nov-2014 10:20:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:42) in /home/neilsite/public_html/careeer/test/test.php on line 106
+[27-Nov-2014 10:20:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:42) in /home/neilsite/public_html/careeer/test/test.php on line 106
+[27-Nov-2014 10:20:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:42) in /home/neilsite/public_html/careeer/test/test.php on line 106
+[27-Nov-2014 10:25:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:42) in /home/neilsite/public_html/careeer/test/test.php on line 106
+[27-Nov-2014 10:48:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 107
+[27-Nov-2014 10:55:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 107
+[27-Nov-2014 17:03:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:03:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:04:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:04:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:05:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:05:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:06:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:34 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[27-Nov-2014 17:07:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:43) in /home/neilsite/public_html/careeer/test/test.php on line 114
+[05-Dec-2014 21:44:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[05-Dec-2014 21:44:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[09-Dec-2014 20:29:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[09-Dec-2014 20:30:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[09-Dec-2014 20:30:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[09-Dec-2014 20:30:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[09-Dec-2014 20:30:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[09-Dec-2014 20:30:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[09-Dec-2014 20:30:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[08-Oct-2015 16:01:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[08-Oct-2015 16:03:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[08-Oct-2015 16:03:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[08-Oct-2015 16:03:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[08-Oct-2015 16:03:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[15-Oct-2015 21:37:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[15-Oct-2015 21:37:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[30-Oct-2015 22:59:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
+[30-Oct-2015 22:59:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/neilsite/public_html/careeer/test/test.php:49) in /home/neilsite/public_html/careeer/test/test.php on line 121
